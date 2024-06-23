@@ -1,4 +1,4 @@
-module gkse
+module pkg.i-no.de/pkg/gkse
 
 go 1.21.1
 

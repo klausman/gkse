@@ -1,5 +1,9 @@
 # Go Kea Stats Exporter
 
+**NOTE**: As of 2024-06-23 the Go import url of this repo has changed to:
+`pkg.i-no.de/pkg/gkse`. Issues, merge requests etc should be filed at its new
+source location, https://codeberg.org/klausman/gkse
+
 This tool serves [Kea](https://www.isc.org/kea/) statistics for consumption by
 [Prometheus](https://prometheus.io/).
 
